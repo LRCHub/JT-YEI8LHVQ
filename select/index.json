@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Brand New Days",
+  "base_artist": "川村ゆみ",
+  "createdAt": "2026-03-07T08:43:52.002701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/01_Brand_New_Days_川村ゆみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Days (Yuyoyuppe Remix)",
+      "artist": "加藤達也",
+      "has_synced": false,
+      "path": "select/02_Brand_New_Days_(Yuyoyuppe_Remix)_加藤達也.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brand New Days (Yuyoyuppe Remix)",
+      "artist": "Yuyoyuppe",
+      "has_synced": false,
+      "path": "select/03_Brand_New_Days_(Yuyoyuppe_Remix)_Yuyoyuppe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/04_Brand_New_Days_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Djmax",
+      "has_synced": true,
+      "path": "select/05_Brand_New_Days_Djmax.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand NEW Days",
+      "artist": "planetboom",
+      "has_synced": false,
+      "path": "select/06_Brand_NEW_Days_planetboom.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Yumi Kawamura",
+      "has_synced": false,
+      "path": "select/07_Brand_New_Days_Yumi_Kawamura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/08_Brand_New_Days_Apink.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brand New Days (Instrumental)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/09_Brand_New_Days_(Instrumental)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brand New Days (Japanese Ver.)",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/10_Brand_New_Days_(Japanese_Ver.)_Apink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New Days (Yuyoyuppe Remix)",
+      "artist": "Shoji Meguro",
+      "has_synced": false,
+      "path": "select/11_Brand_New_Days_(Yuyoyuppe_Remix)_Shoji_Meguro.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brand-new days",
+      "artist": "FTISLAND",
+      "has_synced": true,
+      "path": "select/12_Brand-new_days_FTISLAND.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Days",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Days_川村ゆみ.txt"
+    }
+  ]
+}
